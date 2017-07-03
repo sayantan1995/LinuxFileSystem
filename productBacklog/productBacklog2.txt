@@ -1,0 +1,47 @@
+Product Backlog
+
+a. As a user I want to be able to recursively list all subdirectories. (ls [-R] [PATH…])
+
+b. As a user, I want to be able to move in a item in one path to another path. 
+(mv OLDPATH NEWPATH)
+
+c. As a user, I want to be able to move an item into directory. (mv OLDPATH NEWPATH)
+
+d. As a user, I want to be able to retrieve a file at a specified web address and add the file to the current working directory. (get URL)
+
+e. As a user, I want to be a display the contents of a file as well as any other files on the console in the shell. (cat File)
+
+f. As a user, I want to be able to repeat an action that was previously executed. (!number)
+
+g. As a user, I want to be able to print any lines containing REGEX in the path of a file. 
+(grep [-R] REGEX PATH).					
+
+h. As a user I can close the program. (Exit)				
+
+i. As a user I can create directories using relative or full paths. (mkdir)
+
+j. As a user I can change the current directory. (cd DIR)		
+k. As a user I can create a file. 						
+
+l. As a user I can print working directory path. (pwd)
+
+m. As a user I can save a directory. (pushd)	
+												
+n. As a user I can remove top entry from directory stack. (popd)
+
+o. As a user I can view the history of the commands I entered into the shell. (history)
+
+p. As a user I can see the contents of a file in the shell. (echo String)
+
+q. As a user, I can print current directory if the path is not given.
+r. As a user I can see documentation for any of the command the shell supports. (man)
+
+s. As a user I can be informed that I made an error and the type of error I committed. (Exceptions)
+
+t. As a user, I want to be able to print to print the path of a file and print the lines that contain REGEX. (grep [-R] REGEX PATH)
+
+u. As a user I can create a file with specified content.
+
+v. As a user I can modify content in an existing file
+
+w. As a user I can input commands into shell.

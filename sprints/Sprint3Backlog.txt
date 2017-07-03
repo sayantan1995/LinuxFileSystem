@@ -1,0 +1,60 @@
+Sprint 3 Backlog
+November 2 to November 5
+
+Product Backlog items to be implemented from previous sprint:	
+a) As a user I can create directories using relative or full paths. 					
+b) As a user I can change the current directory.						                
+c) As a user I can create a file.														
+d) As a user I can print working directory path.										
+e) As a user I can save a directory.													
+f) As a user I can remove top entry from directory stack								
+g) As a user I can view the history of the commands I entered into the shell.			
+h) As a user I can see the contents of a file in the shell								
+i) As a user I can create a file with specified content 								
+j) As a user I can print content onto the shell																			
+k) As a user I can see documentation for any of the command the shell supports
+l) As a user I can modify content in an existing file
+m) As a user I can input commands into shell
+n) As a user I can close the program
+o) As a user I can see the the description of the commands 											
+									
+Product Backlog items to be implemented: 
+p) As a user I can use the file system												    					
+q) As a user I can be informed that I made an error and the type of error I committed.	
+
+Specific tasks to be accomplished:
+a-1. Write the code for the directory class						                																																								
+a-2. Write the code for creating directories.
+b-1. Write the code for the node class
+b-2. Write the code to change directories
+c-1. Writ the code to create files
+d-1. Write the code to print the working directory path
+e-1. Write the code for the directory stack
+e-2. Write code for saving a directory to the directory stack.
+f-1. Write code for removing a directory from the directory stack.
+g-1. Write code for creating a history class
+h-1. Write the code for updating a file (Echo Append).
+i-1. Write the code for printing the content to the shell (Cat File).
+j-1. Write the code for overwriting the file (Echo Overwrite).
+k-1. Write the code for printing a working directory path.
+l-1. Write the base code for the Command Class
+m-1. Writ the code to input commands into shell
+n-1. Write the code to exit the program
+o-1. Write the code to print the documentation of the commands
+p-1. Write the code for the file system
+q-1. Write the test cases for the commands
+
+
+These tasks are assigned as follows:
+
+Sayantan Chatopadhyay: User1
+Tasks: d-1,n-1,m-1,p-1,q-1
+
+Leah Furyk: User 2
+Tasks: a-1,a-2,e-2,f-1,i-1,q-1
+
+Shrey Jain: User 3
+Tasks: b-1,b-2,h-1,j-1,q-1,e-1
+
+Anandi Patel: User 4
+Tasks: c-1,f-1,g-1,k-1,l-1,q-1

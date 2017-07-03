@@ -1,0 +1,90 @@
+Sprint Backlog
+November 11 - November 15
+
+a-1. Adjust the CRC Card for ListContents.
+a-2. Write the code to recursively list all subdirectories.
+a-3. Write the new test cases for ListContents.
+
+b-1. Write the CRC Card for mv OLDPATH NEWPATH.
+b-2. Write the javadoc for mv.
+b-3. Write the code for moving an item from one path to another.
+b-4. Write the test cases for mv.
+
+c-1. Write the command to move an item into directory.
+c-2. Write the test cases for this part of mv.
+
+d-1. Write the CRC Card for get URL.
+d-2. Write the code for get URL.
+d-3. Write the test cases for get URL.
+
+e-1. Adjust the CRC Card for cat File.
+e-2. Write the additional code for cat File.
+e-3. Write the additional test cases for cat File.
+e-4. Review the requirements of cat File and make any necessary adjustments.
+
+f-1. Write the CRC Card for !number.
+f-2. Write the code for !number.
+f-3. Write the test cases for !number.
+
+g-1. Write the CRC Card for grep [-R].
+g-2. Write the javadoc for grep [-R].
+g-3. Write the code for grep [-R].
+g-4. Write the test cases for grep [-R].
+
+h-1. Review to ensure exit works.
+
+i-1. Review that mkdir works properly (i.e. compare to the document from A2A)
+i-2. Make any changes that are necessary.
+
+j-1. Review that cd DIR works properly (i.e. compare to the document from A2A)
+j-2. Make any changes that are necessary.
+
+k-1. Review that File works properly (i.e. compare to the document from A2A)
+k-2. Make any changes that are necessary.
+
+l-1. Review that pwd works properly (i.e. compare to the document from A2A)
+l-2. Make any changes that are necessary.
+
+m-1. Review that pushd works properly (i.e. compare to the document from A2A)
+m-2. Make any changes that are necessary.
+
+n-1. Review that popd works properly (i.e. compare to the document from A2A)
+n-2. Make any changes that are necessary.
+
+o-1. Review that history works properly (i.e. compare to the document from A2A)
+o-2. Make any changes that are necessary.
+
+p-1. Review that echo (EchoAppend and EchoOverwrite) works properly (i.e. compare to the document from A2A)
+p-2. Make any changes that are necessary.
+
+q-1. Finish the code for ListContent.
+q-2. Write the test cases for ListContent.
+
+r-1. Update the code for manual.
+r-2. Write the new manual command documentation.
+
+s-1. Write the exceptions for all the commands.
+s-2. Remove the getErrorMessage code for all the commands.
+s-3. Test to ensure that all the exceptions work.
+
+t-1. Write the CRC Card for grep [-R] REGEX PATH.
+t-2. Write the code for grep.
+t-3. Write the javadoc for grep.
+t-4. Communicate with the person writing exceptions to ensure that all necessary exceptions are raised.
+
+u-1. Review that File works properly (i.e. compare to the document from A2A)
+u-2. Make any changes that are necessary.
+
+These tasks are assigned as follows:
+
+Sayantan Chatopadhyay: User1
+Tasks: b-1, b-2, b-3, d-1, d-2, d-3, i-1, i-2, m-1, m-2, o-1, o-2
+
+Leah Furyk: User 2
+Tasks: f-1, f-2, f-3, l-1, l-2, r-1, r-2, s-1, s-2, s-3, c-2
+
+Shrey Jain: User 3
+Tasks: a-1, a-2, a-3, h-1, k-1, k-2, q-1, q-2, p-1, p-2, c-1
+
+Anandi Patel: User 4
+Tasks: e-1, e-2, e-3, e-4, g-1, g-2, g-3, g-4, j-1, j-2, n-1, n-2

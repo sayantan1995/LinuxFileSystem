@@ -1,0 +1,65 @@
+Sprint 2 Backlog
+October 26 to October 31
+
+Product Backlog items to be implemented from previous sprint:
+a) Create the CRC cards 
+b) Prompt use for input
+c) Create a file 
+d) Keep record of directories
+s) Execute the commands
+
+Product Backlog items to be implemented:
+e) As a user I can input commands into shell											
+f) As a user I can close the program. 												    
+g) As a user I can create directories using relative or full paths. 					
+h) As a user I can change the current directory.						                
+i) As a user I can create a file.														
+j) As a user I can print working directory path.										
+k) As a user I can save a directory.													
+l) As a user I can remove top entry from directory stack								
+m) As a user I can view the history of the commands I entered into the shell.			
+n) As a user I can see the contents of a file in the shell								
+o) As a user I can create a file with specified content 								
+p) As a user I can print content onto the shell										
+q) As a user I can modify content in an existing file									
+r) As a user I can see documentation for any of the command the shell supports			
+
+a-1. Create a CRC Card for history.
+a-2. Review CRC Cards and make any necessary updates (i.e. comments from TA from A1).
+a-3. Create CRC Card for Class Command.
+b-1. Write the code to prompt the user for input.
+c-1. Write the base code for the file class. 
+d-1. Check over tree implementation in directory class.
+e-1. Write the code for taking in commands.
+f-1. Write the code for closing a JShell.
+g-1. Write the code for creating directories.
+h-1. Write the code for changing directories.
+i-1. Write the code for class File.
+j-1. Write the code for saving a directory class.
+j-2. Write the code for updating the directory.
+k-1. Write the code for removing a directory from the directory stack.
+k-2. Write the code for updating a directory stack.
+l-1. Write the code for creating a History Class.
+m-1. Write the JShell Class.
+n-1. Write the code for updating a file (Echo Append).
+o-1. Write the code for printing the content to the shell.
+p-1. Write the code for Echo class.
+p-2. Write the code for overwriting the file (Echo Overwrite).
+q-1. Write the code for displaying the documentation.
+q-2. Write the code for formatting the documentation.
+r-1. Write the base code for the Command Class
+s-1. Write the code for printing a working directory path.
+
+These tasks are assigned as follows:
+
+Sayantan Chatopadhyay: User1
+Tasks: a-2, b-1, l-1, l-2, j-1, d-1, n-1
+
+Leah Furyk: User 2
+Tasks: a-1, a-3, f-1, h-1, q-1, q-2, j-2 
+
+Shrey Jain: User 3
+Tasks: a-2, e-1, h-1, o-1, c-1, s-1
+
+Anandi Patel: User 4
+Tasks: a-2, g-1, k-1, k-2, p-1, p-2, m-1

@@ -1,0 +1,71 @@
+//Sprint 5 Backlog.  
+November 19 to November 22
+
+
+Product Backlog items to be implemented:
+a) move item to directory
+b) change item in directory
+c) print contents of directory
+d) print the current working directory
+e) move file from old path to new path
+f) change file from old path to new path 
+g) display contents of file
+h) get the url from the shell
+i) print the echo string
+j) print documentation of command
+k) save current working directory
+l) remove current working directory
+m) print history of commands entered 
+n) recall history by number
+o) print lines containing regex
+
+Specific tasks to be accomplished:
+a-1. Update the code to move the item to directory
+a-2. Update the test cases for move item to directory  
+b-1. Update the code to change item in directory
+b-2. Update the test cases for change item in directory
+c-1. Update the code to print contents of directory
+c-2. Update the test cases of print contents of directory
+d-1. Update the code of the print current working directory
+d-2. Update the test cases for print current working directory
+e-1. Write the crc card for mv old path to new path
+e-2. Write the code to move file from old path to new path
+e-3. Write the test cases to move file from old path to new path
+f-1. Write the crc card for cd old path to new path
+f-2. Write the code to change file from old path to new pathf
+f-3. Write the test cases to move file from old path to new path
+g-1. Update the code for display contents of file
+g-2. Update the test cases for display contents of file
+h-1. Write the code for get url 
+h-2. Writ the test cases for get url
+i-1. Update the test cases for print the echo string
+i-2. Update the code to print the echo string
+j-1. Update the code for print documentation of command
+j-2. Update the code for print documentation of command
+k-1. Update the code for save current working directory
+k-2. Update the test cases for save current working directory
+l-1. Update the code to remove current working directory
+l-2. Update the test cases for current working directory
+m-1. Update the code for history
+m-2. Update the test cases for the history command
+n-1. Write the code to recall history by number
+n-2. Write the test cases to recall history by number
+o-1. Write the crc cards for print lines containing regex
+o-2. Write the code for print lines containing regex
+o-3. Write the test cases for lines containing regex
+
+
+
+These tasks are assigned as follows:
+
+Sayantan Chatopadhyay: User1
+Tasks:  a-1,a-2,e-1,e-2,e-3,k-1,k-2 
+
+Leah Furyk: User 2
+Tasks: d-1,d-2,j-1, j-2,n-1,n-2, m-1,m-2
+
+Shrey Jain: User 3
+Tasks: c-1,c-2,f-2,f-3, h-1,h-2,i-1,i-2
+
+Anandi Patel: User 4
+Tasks:b-1,b-2,g-1, g-2,l-1,l-2,o-1,o-2,o-3

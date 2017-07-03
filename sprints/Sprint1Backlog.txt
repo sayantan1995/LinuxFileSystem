@@ -1,0 +1,39 @@
+//Sprint 1 Backlog.  
+October 18 to October 23
+
+
+Product Backlog items to be implemented:
+a) Create the CRC cards 
+b) Prompt use for input
+c) Create a file 
+d) Keep record of directories
+e) Execute the commands
+f) Check if the commands takes correct arguments  
+g) Make a directory
+h) View documentation that the command shell supports  
+
+Specific tasks to be accomplished:
+a-1. Write the CRC cards for the file system  
+b-1. (JShell) Write the code to prompt the shell for user input constantly 
+c-1. (File) Write the base code for the file class 
+d-1. (Directory) Write the base code for the directory class
+e-1. (Command) Write the base code for the Command Class
+f-1. (Validate) Write the base code to validate the arguments of the command
+g-1. (Directory) Write the code to make a directory 
+h-1. (File) Write the documentation for the commands 
+
+
+
+These tasks are assigned as follows:
+
+Sayantan Chatopadhyay: User1
+Tasks: a-1, b-1
+
+Leah Furyk: User 2
+Tasks: d-1, i-1
+
+Shrey Jain: User 3
+Tasks: e-1, h-1
+
+Anandi Patel: User 4
+Tasks: f-1, g-1
