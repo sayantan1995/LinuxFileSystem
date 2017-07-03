@@ -1,0 +1,6 @@
+Class name: PrintCurrentDirectory
+Parent class: Command
+Subclasses:
+Responsibilities: 1) Modifies FileSystem output to print the current directory
+
+Collaborators: FileSystem

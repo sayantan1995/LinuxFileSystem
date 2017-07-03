@@ -1,0 +1,8 @@
+Class name: Grep
+Parent class (if any):  
+Subclasses (if any): 
+
+Responsibilities: 1) reports matching lines in files
+                  
+
+Collaborators: Directory, File

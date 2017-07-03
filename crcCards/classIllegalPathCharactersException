@@ -1,0 +1,7 @@
+Class name: IllegalPathCharactersException
+Parent class (if any): RuntimeException
+Subclasses (if any):
+
+Responsibilities: 1) Called when a path uses characters that are not valid.
+
+Collaborators:

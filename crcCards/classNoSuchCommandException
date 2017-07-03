@@ -1,0 +1,7 @@
+Class name: NoSuchCommandException
+Parent class (if any): RuntimeException
+Subclasses (if any):
+
+Responsibilities: 1) Called when a user calls a command that doesn't exist.
+
+Collaborators:

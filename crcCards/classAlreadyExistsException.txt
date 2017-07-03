@@ -1,0 +1,7 @@
+Class name: AlreadyExistsException
+Parent class (if any): RuntimeException
+Subclasses (if any):
+
+Responsibilities: 1) Called if a file or directory that exists is attempted to be made.
+
+Collaborators:

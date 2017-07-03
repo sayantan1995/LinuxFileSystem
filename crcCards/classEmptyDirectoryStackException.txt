@@ -1,0 +1,7 @@
+Class name: EmptyDirectoryStackException
+Parent class (if any): RuntimeException
+Subclasses (if any):
+
+Responsibilities: 1) Called when a user tries to pop a directory from an empty stack.
+
+Collaborators:

@@ -1,0 +1,13 @@
+a) What did I work on last time? 
+	- Wrote the product and sprint backlog for the assignment.
+	
+b) What do I plan to work on now?  
+	- Continue work on the code for exceptions.
+	- Finish the code for !number and write the test cases.
+	- Write the test cases for mv.
+	- Review and change any pwd works properly.
+
+c) Am I blocked on anything?  
+	- I'm a little blocked on how to make a command for !number.
+	- I'm also a little blocked on how to call the exceptions within
+	the code.

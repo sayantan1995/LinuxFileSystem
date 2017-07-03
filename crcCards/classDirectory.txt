@@ -1,0 +1,12 @@
+Class name: Directory
+Parent class (if any):
+Subclasses (if any):
+
+
+Responsibilities: 1) To perform tasks associated with the directory.
+				  2) Update the directory to reflect any changes that
+				  have occurred.
+				  3) Provide other classes with the information required
+				  to interact with the directory.
+				  
+Collaborators: PathParser, File, 

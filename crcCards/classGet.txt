@@ -1,0 +1,7 @@
+Class name: Get
+Parent class (if any):Command
+Subclasses (if any): 
+
+Responsibilities:Finds the file in given URL and adds it to the current working directory.
+				  
+Collaborators: FileSystem, InvalidArgumentException

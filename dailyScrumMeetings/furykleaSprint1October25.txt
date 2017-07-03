@@ -1,0 +1,17 @@
+a) What did I work on last time? 
+	- Completion of CRC Card for Directory Class
+	- Wrote code for Directory Class (rough implementation
+	idea of using a stack to store the directory names)
+	- Completion of the command manual, but not added to the
+	file yet. As, I think it would be easier to add when the
+	writing of the class for the mannual command. 
+	
+b) What do I plan to work on now?  
+	- Sprint 2, starts tomorrow so that will be what I am 
+	working on.
+	- Research on Lab 6, so that I can better understand how to
+	improve the design of our project.
+	- Completion of the rest of the CRC Cards.
+
+c) Am I blocked on anything?  
+	-Currently, I am not blocked on anything

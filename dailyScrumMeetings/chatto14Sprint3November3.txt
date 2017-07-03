@@ -1,0 +1,12 @@
+a) What did I work on last time?
+	- Updated a few CRC cards
+	- Discussed with group what changes need to be made to our design
+	- Started working on sprint 3
+	
+
+b) What do I plan to work on now? 
+	- Update the CRC cards to reflect any final changes
+	- Finish the test classes
+ 
+c) Am I blocked on anything?
+	-No, I'm not currently blocked on anything.   		

@@ -1,0 +1,8 @@
+Class name: Factorial
+Parent class: Command
+Subclasses: 
+
+Responsibilities: 1) Recalls the previous commands entered.
+				  2) Executes the specified previous commands.
+
+Collaborators: FileSystem

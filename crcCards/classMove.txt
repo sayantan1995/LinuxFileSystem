@@ -1,0 +1,7 @@
+Class name: Move
+Parent class (if any):Command
+Subclasses (if any): 
+
+Responsibilities: Moves an item from current location to the new path specified.
+				  
+Collaborators: FileSystem, PrintCurrentWorkingDirectory, TooManyArgumentsException, TooFewArgumentsException, InvalidArgumentException

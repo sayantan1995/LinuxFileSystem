@@ -1,0 +1,9 @@
+Class name: PushDirectory
+Parent class (if any):
+Subclasses (if any): 
+
+Responsibilities: 1) Saves the current working directory by pushing onto the 
+					 directory stack
+				  2) Changes the current directory to the new directory added
+				  
+Collaborators: ListContent, PrintCurrentWorkingDirectory, ChangeDirectory 

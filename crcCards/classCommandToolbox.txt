@@ -1,0 +1,8 @@
+Class name: CommandToolbox
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities: 1) Maintains an array of commands.
+	              2) Runs the appropriate command.
+				  
+Collaborators: FileSystem, Exception, History, PrintWorkingDirectory, PopDirectory, PushDirectory, Manual, MakeDirectory, ChangeDirectory, Echo, DisplayContents, Copy, ListContents, CommandHandler

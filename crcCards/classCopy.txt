@@ -1,0 +1,7 @@
+Class name: Copy
+Parent class (if any):Command
+Subclasses (if any): 
+
+Responsibilities: Copies an item from current location to the new path specified.
+				  
+Collaborators: FileSystem, InvalidArgumentException

@@ -1,0 +1,7 @@
+Class name: History
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities: 1) Outputs the commands stored in history,
+
+Collaborators: 

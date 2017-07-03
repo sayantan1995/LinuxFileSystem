@@ -1,0 +1,8 @@
+Class name: PathParser
+Parent class: None
+Subclasses: None
+
+Responsibilities: 1) Determines the path from the root of any 
+				  path(whether relative or absolute) entered by the user.
+
+Collaborators: None

@@ -1,0 +1,11 @@
+a) What did I work on last time?
+	-finished coding jShell
+	-wrote the command parser, which uses regex to determine command
+	-began work on the directory class
+
+b) What do I plan to work on now? 
+	-complete the command parser, need to write several other regex expressions
+	-get command parser to recognize errors
+	
+c) Am I blocked on anything?
+	-No, I'm not currently blocked on anything.   	

@@ -1,0 +1,14 @@
+a) What did I work on last time? 
+	- Worked on redesigning our project based on
+	TA's comments
+	
+b) What do I plan to work on now?  
+	- Finish writing the test cases.
+	- Add in the javadoc to the files.
+	- Fix the directory class.
+
+c) Am I blocked on anything?  
+	- I'm a little blocked on how directory is a
+	parent of file. But, we're meeting as a group
+	tomorrow so we should be able to figure it out
+	then.

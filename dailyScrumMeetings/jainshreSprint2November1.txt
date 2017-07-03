@@ -1,0 +1,11 @@
+a) What did I work on last time?
+	-remade entire program design with group members with suggestions from
+	TA demo
+
+b) What do I plan to work on now? 
+	-work with team to create CRC cards for new design
+	-recode JShell
+	-recode history
+	
+c) Am I blocked on anything?
+	-No, I'm not currently blocked on anything.   	

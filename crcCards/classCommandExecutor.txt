@@ -1,0 +1,8 @@
+Class name: CommandExecutor
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities: 1) Calls the appropriate command.
+	              2) Outputs the result and errors.
+				  
+Collaborators: CommandToolbox, Factorial, Redirect, FileSystem

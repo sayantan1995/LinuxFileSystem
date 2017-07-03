@@ -1,0 +1,7 @@
+Class name: Manual
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities: 1) Modifies FileSystem by modifying the output into documentation of a command.
+				  
+Collaborators: FileSystem

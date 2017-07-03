@@ -1,0 +1,14 @@
+a) What did I work on last time? 
+	- Wrote the code for the Manual class.
+	- Started work on the directory, change directory and new directory class.
+	- Wrote the CRC cards for CommandParser and PathParser. 
+	
+b) What do I plan to work on now?  
+	- Finish coding directory, change directory and new directory class.
+	- Work on incorporating polymorphism into the design.
+	- Write the code so that JShell can call the Manual class.
+
+c) Am I blocked on anything?  
+	-Currently, I am blocked on how to write the directory class. I'm not using a constructor which could
+	be causing problems. I'm also blocked on how to make make directory and class directory
+	work together. 

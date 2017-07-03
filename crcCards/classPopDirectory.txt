@@ -1,0 +1,8 @@
+Class name: PopDirectory
+Parent class (if any):
+Subclasses (if any): 
+
+Responsibilities: 1) Remove the top item from the directory stack  
+				  2) Changes directory to removed directory
+				  
+Collaborators: ListContent, PrintCurrentWorkingDirectory, ChangeDirectory

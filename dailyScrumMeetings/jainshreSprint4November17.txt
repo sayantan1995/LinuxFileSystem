@@ -1,0 +1,11 @@
+a) What did I work on last time?
+	-finished the code for the ls command
+	-wrote the code for echo
+	-refactored code to follow singleton principle for filesystem
+
+b) What do I plan to work on now? 
+	-create test cases for the ls command
+	-write the move command
+	
+c) Am I blocked on anything?
+	-Yes, I'm waiting for my group members to create the mkdir command so I can test my ls command

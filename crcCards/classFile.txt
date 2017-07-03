@@ -1,0 +1,7 @@
+Class name: File
+Parent class (if any): 
+Subclasses (if any):
+
+Responsibilities: 1) Store the information placed in the files. 
+
+Collaborators:

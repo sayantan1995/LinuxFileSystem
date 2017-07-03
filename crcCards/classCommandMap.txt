@@ -1,0 +1,7 @@
+Class name: CommandMap
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities: 1) Maps the commands to the location in the command-toolbox
+				  
+Collaborators:

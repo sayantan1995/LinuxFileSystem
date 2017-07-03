@@ -1,0 +1,8 @@
+Class name: ArgumentsParser
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities: 1) Prepares a list of arguments given a string.
+				  2) Raises an error if too many arguments or too few arguments are given for the command.
+
+Collaborators: TooManyArgumentsException, TooFewArgumentsException

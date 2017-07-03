@@ -1,0 +1,7 @@
+Class name: Echo
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities: 1)Outputs the given string. The string must be surrounded by double quotes
+
+Collaborators: FileSystem, InvalidArgumentException

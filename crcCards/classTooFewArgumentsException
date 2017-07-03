@@ -1,0 +1,7 @@
+Class name: TooFewArgumentsException
+Parent class (if any): RuntimeException
+Subclasses (if any):
+
+Responsibilities: 1) Called when a command is missing arguments.
+
+Collaborators:

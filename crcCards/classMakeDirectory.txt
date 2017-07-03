@@ -1,0 +1,10 @@
+Class name: MakeDirectory
+Parent class: Command
+Subclasses: 
+Responsibilities: 1) Creates a new directory. 
+				  2) The new directory may be located within the 
+				  current working directory. Or, it may be the start of
+				  a new separate parent directory.
+
+
+Collaborators: FileSystem, PrintingCurrentWorkingDirectory, 

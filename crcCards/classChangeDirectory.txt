@@ -1,0 +1,12 @@
+Class name: ChangeDirectory
+Parent class: Command
+Subclasses:
+
+Responsibilities: 1) Changes the current working directory to the 
+				  specified directory. 
+				  2) DirectoryChange DIR can change to a subdirectory, a parent 
+				  directory or it can change to the root directory.
+				  3) If there is no directory with the specified name
+				  then there is no change to the current directory + error.
+
+Collaborators:

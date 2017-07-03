@@ -1,0 +1,9 @@
+Class name: Command
+Parent class (if any):
+Subclasses (if any): ChangeDirectory, Echo, History, Manual, NewDirectory, PopDirectory, PushDirectory, PrintWorkingDirectory
+
+Responsibilities: 1) Abstract class.
+	              2) Prepares for a particular command to run.
+	              3) Cleans up after command has executed.
+				  
+Collaborators: FileSystem, ArgumentsHandler, InvalidArgumentException

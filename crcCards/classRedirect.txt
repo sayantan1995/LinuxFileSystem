@@ -1,0 +1,7 @@
+Class name: Redirect
+Parent class:
+Subclasses: 
+
+Responsibilities: 1) Redirects the given output into a file.
+
+Collaborators: FileSystem

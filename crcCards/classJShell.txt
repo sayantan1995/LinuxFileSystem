@@ -1,0 +1,9 @@
+Class name: JShell
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities: 1) Takes input from the user.
+				  2) Quits the program if the user enters exit.
+				  3) Passes input to command executor, as long as input was not blank.
+
+Collaborators: Directory, CommandExecutor, CommandHandler

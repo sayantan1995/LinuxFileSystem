@@ -1,0 +1,8 @@
+Class name: DisplayContents
+Parent class (if any):Command
+Subclasses (if any): 
+
+
+Responsibilities: 1) to print out contents of a file in shell
+				  
+Collaborators: FileSystem

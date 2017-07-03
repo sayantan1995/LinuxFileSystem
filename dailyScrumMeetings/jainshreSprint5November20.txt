@@ -1,0 +1,10 @@
+a) What did I work on last time?
+	-wrote some code for the move command
+
+b) What do I plan to work on now? 
+	-create test cases for the ls command
+	-finish the move command
+	-write test cases for the move command
+	
+c) Am I blocked on anything?
+	-Yes, I'm waiting for my group members to fix the mkdir command (it doesn't work right now) so I can test my ls command

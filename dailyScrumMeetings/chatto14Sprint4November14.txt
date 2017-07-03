@@ -1,0 +1,11 @@
+a) What did I work on last time? 
+	- Reviewed the product and sprint backlog for the assignment with group members.
+	= Wrote CRC cards for mv and get URL and started coding them.
+	
+b) What do I plan to work on now?  
+	- Finish the code for mv and get URL.
+	- Review mkdir, pushd, and echo works properly and make any necessary changes.
+
+c) Am I blocked on anything?  
+	- I'm  a little blocked on how to call the exceptions within
+	the code.

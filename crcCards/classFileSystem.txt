@@ -1,0 +1,7 @@
+Class name: FileSystem
+Parent class (if any):  
+Subclasses (if any): 
+
+Responsibilities: 1) Gives methods to interact with the history, directoryStack, and directories and files
+
+Collaborators: Directory, File

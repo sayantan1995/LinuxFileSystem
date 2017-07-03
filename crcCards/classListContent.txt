@@ -1,0 +1,10 @@
+Class name: ListContents
+Parent class (if any): Command 
+Subclasses (if any): 
+
+Responsibilities: 1) prints contents of current directory if not path given
+                  2) prints file if path specifies file
+                  3) prints directory along with contents of directory
+                  4) prints error message if path does not exist
+
+Collaborators: FileSystem, InvalidArgumentException
